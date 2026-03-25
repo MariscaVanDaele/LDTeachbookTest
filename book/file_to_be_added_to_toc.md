@@ -4,7 +4,7 @@ On this page we will show you how to add an image or a link to a video.
 ## We've added an image 
 Below you can find the photo, created and uploaded by Marisca van Daele, not added to a website so no official CC BY licence, but feel free to reuse without attribution: 
 
-```{figure} images/creativiteit.png
+```{figure} /../images/creativiteit.png
 ---
 width: 50%
 align: center
