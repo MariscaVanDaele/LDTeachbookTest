@@ -6,7 +6,7 @@ I hope you'll have fun exploring, and I hope that we can add information to this
 
 Feel free to reach out to me, Marisca van Daele, if you want to discuss Teachbooks and it's options. 
 
-```{figure} images/'Little builder' by Joy Davis is released under CC BY 4.0.jpg
+```{figure} /../images/little_builder.jpg
 ---
 width: 80%
 align: center
