@@ -8,8 +8,8 @@ Feel free to reach out to me, Marisca van Daele, if you want to discuss Teachboo
 
 ```{figure} /../images/little_builder.jpg
 ---
-width: 80%
-align: center
+width: 30%
+align: left
 ---
 <'Little builder' by Joy Davis is released under CC BY 4.0>
 ```
