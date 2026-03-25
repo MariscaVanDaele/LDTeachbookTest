@@ -13,6 +13,7 @@ parts:
       sections:
       - file: some_content/text_and_code.ipynb
       - file: some_content/file_to_be_added_to_toc.md
+      - file: some_content/trying_code.md
   - caption: Exercises
     chapters:
     - file: exercises.md
