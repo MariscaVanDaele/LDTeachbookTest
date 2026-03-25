@@ -14,6 +14,7 @@ kernelspec:
 
 Here we'll show a plot, called: "Sine wave":
 ```{code-cell} ipython3
+%matplotlib inline
 :tags: ["auto-execute-page"]
 
 import matplotlib.pyplot as plt
