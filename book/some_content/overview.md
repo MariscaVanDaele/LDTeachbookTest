@@ -1,3 +1,15 @@
-# Some content
+# Welcome, Learning Developer
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This teachbook is made to show you what is possible and so we can consider using this format in our Open Education. Many things are possible; adding pages with text, images and links to videos, making assignments and calculations, even running code. 
+
+I hope you'll have fun exploring, and I hope that we can add information to this Teachbook, so that it can be even more useful than it currently is. 
+
+Feel free to reach out to me, Marisca van Daele, if you want to discuss Teachbooks and it's options. 
+
+```{figure} images/'Little builder' by Joy Davis is released under CC BY 4.0.jpg
+---
+width: 80%
+align: center
+---
+<'Little builder' by Joy Davis is released under CC BY 4.0>
+```
